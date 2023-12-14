@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MahmoudFaour/static/css/main.f85006fb.css",
-    "main.js": "/MahmoudFaour/static/js/main.cdb3083e.js",
+    "main.js": "/MahmoudFaour/static/js/main.f908473b.js",
     "static/js/787.e08a9240.chunk.js": "/MahmoudFaour/static/js/787.e08a9240.chunk.js",
     "static/media/remixicon.svg?t=1690730386070": "/MahmoudFaour/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/remixicon.eot?t=1690730386070": "/MahmoudFaour/static/media/remixicon.53ec05edb4b6864b45b1.eot",
@@ -11,11 +11,11 @@
     "static/media/remixicon.woff2?t=1690730386070": "/MahmoudFaour/static/media/remixicon.821a773710130bcf4674.woff2",
     "index.html": "/MahmoudFaour/index.html",
     "main.f85006fb.css.map": "/MahmoudFaour/static/css/main.f85006fb.css.map",
-    "main.cdb3083e.js.map": "/MahmoudFaour/static/js/main.cdb3083e.js.map",
+    "main.f908473b.js.map": "/MahmoudFaour/static/js/main.f908473b.js.map",
     "787.e08a9240.chunk.js.map": "/MahmoudFaour/static/js/787.e08a9240.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f85006fb.css",
-    "static/js/main.cdb3083e.js"
+    "static/js/main.f908473b.js"
   ]
 }
