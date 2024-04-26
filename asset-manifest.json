@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MahmoudResume/static/css/main.b734f4e3.css",
-    "main.js": "/MahmoudResume/static/js/main.214a7fcf.js",
-    "static/js/787.9767ad51.chunk.js": "/MahmoudResume/static/js/787.9767ad51.chunk.js",
-    "static/media/remixicon.svg?t=1690730386070": "/MahmoudResume/static/media/remixicon.db77551b8efc76571c4f.svg",
-    "static/media/remixicon.eot?t=1690730386070": "/MahmoudResume/static/media/remixicon.53ec05edb4b6864b45b1.eot",
-    "static/media/remixicon.ttf?t=1690730386070": "/MahmoudResume/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
-    "static/media/bg.jpg": "/MahmoudResume/static/media/bg.029d7f89b8b8dfb9c967.jpg",
-    "static/media/remixicon.woff?t=1690730386070": "/MahmoudResume/static/media/remixicon.affd60ca37df38cfee4f.woff",
-    "static/media/remixicon.woff2?t=1690730386070": "/MahmoudResume/static/media/remixicon.821a773710130bcf4674.woff2",
-    "index.html": "/MahmoudResume/index.html",
-    "main.b734f4e3.css.map": "/MahmoudResume/static/css/main.b734f4e3.css.map",
-    "main.214a7fcf.js.map": "/MahmoudResume/static/js/main.214a7fcf.js.map",
-    "787.9767ad51.chunk.js.map": "/MahmoudResume/static/js/787.9767ad51.chunk.js.map"
+    "main.css": "/MahmoudFaour/static/css/main.43a605e1.css",
+    "main.js": "/MahmoudFaour/static/js/main.9a5d14c7.js",
+    "static/js/787.9767ad51.chunk.js": "/MahmoudFaour/static/js/787.9767ad51.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/MahmoudFaour/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/MahmoudFaour/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/MahmoudFaour/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/bg.jpg": "/MahmoudFaour/static/media/bg.029d7f89b8b8dfb9c967.jpg",
+    "static/media/remixicon.woff?t=1690730386070": "/MahmoudFaour/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/MahmoudFaour/static/media/remixicon.821a773710130bcf4674.woff2",
+    "index.html": "/MahmoudFaour/index.html",
+    "main.43a605e1.css.map": "/MahmoudFaour/static/css/main.43a605e1.css.map",
+    "main.9a5d14c7.js.map": "/MahmoudFaour/static/js/main.9a5d14c7.js.map",
+    "787.9767ad51.chunk.js.map": "/MahmoudFaour/static/js/787.9767ad51.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b734f4e3.css",
-    "static/js/main.214a7fcf.js"
+    "static/css/main.43a605e1.css",
+    "static/js/main.9a5d14c7.js"
   ]
 }
